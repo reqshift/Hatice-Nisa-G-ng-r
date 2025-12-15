@@ -68,8 +68,4 @@
 
 ---
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=reqshift&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
-    <br>
-    <i>⚡ "The only way to do great work is to love what you do."</i>
-</div>
+
